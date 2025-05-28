@@ -24,7 +24,7 @@ int main()
     Product p2( "Smartphone", 499.99);
 
     p1.display();
-    p2.display();
+    p2.display(); 
 
     return 0;
 }

@@ -19,7 +19,7 @@ int main()
     *(ptr + 2) = 25;
 
     cout << " Updated Inventory: ";
-    for ( int i = 0; i < 5; i++)
+    for ( int i = 0; i < 7; i++)
     {
         cout<< inventory [i] << " " ;
         }
