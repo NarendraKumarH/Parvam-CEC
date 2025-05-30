@@ -17,7 +17,7 @@ int main()
     std::cin >> num1;
     std::cout << "Enter denominator: ";
     std::cin >> num2;
-
+ 
     try 
     {
       double result = divide( num1, num2 );
