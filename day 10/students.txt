@@ -1,0 +1,30 @@
+Alice 38,9810007719,Alice38@example.com,Street 55, City 7,B-,SID1001,Electronics & Communication Engineering,Management,350,613,8.3,180000
+Bob 0,9810001142,Bob81@example.com,Street 21, City 7,B+,SID1002,Electronics & Communication Engineering,Management,380,977,12.1,180000
+Charlie 55,9810025906,Charlie57@example.com,Street 81, City 3,A+,SID1003,Electronics & Communication Engineering,KCET,346,591,7,120000
+Diana 87,9810016907,Diana37@example.com,Street 17, City 1,A+,SID1004,Civil Engineering,Management,378,3224,11.7,144000
+Eve 97,9810020584,Eve12@example.com,Street 78, City 1,AB+,SID1005,Electronics & Communication Engineering,KCET,379,3506,11.8,120000
+Frank 49,9810012329,Frank76@example.com,Street 64, City 1,AB+,SID1006,Computer Science Engineering,KCET,402,1653,3.4,150000
+Grace 37,9810027856,Grace98@example.com,Street 97, City 2,B-,SID1007,Civil Engineering,Management,360,943,7.7,144000
+Heidi 75,9810028871,Heidi4@example.com,Street 52, City 3,O+,SID1008,Computer Science Engineering,Management,486,2805,6.7,225000
+Ivan 23,9810010335,Ivan33@example.com,Street 20, City 3,AB-,SID1009,Civil Engineering,Management,324,2066,9.9,144000
+Judy 30,9810024167,Judy36@example.com,Street 36, City 9,O+,SID1010,Civil Engineering,KCET,423,4923,10.4,90000
+Kevin 11,9810012062,Kevin65@example.com,Street 19, City 1,O+,SID1011,Mechanical Engineering,KCET,434,969,5.4,100000
+Liam 77,9810015046,Liam31@example.com,Street 72, City 8,AB+,SID1012,Mechanical Engineering,Management,335,1668,9,162000
+Mia 14,9810009642,Mia76@example.com,Street 23, City 7,AB-,SID1013,Computer Science Engineering,KCET,324,4022,3.7,150000
+Noah 96,9810026726,Noah63@example.com,Street 62, City 0,O-,SID1014,Computer Science Engineering,Management,428,114,11.3,225000
+Olivia 59,9810012743,Olivia91@example.com,Street 61, City 4,B-,SID1015,Computer Science Engineering,Management,354,3471,4.9,225000
+Peter 74,9810008821,Peter22@example.com,Street 52, City 0,A+,SID1016,Computer Science Engineering,Management,375,1437,4.9,225000
+Quinn 88,9810021255,Quinn47@example.com,Street 54, City 0,B-,SID1017,Civil Engineering,Management,304,1168,4.6,144000
+Rachel 56,9810032001,Rachel27@example.com,Street 51, City 4,O+,SID1018,Civil Engineering,KCET,346,2015,12.9,90000
+Sam 65,9810015537,Sam60@example.com,Street 75, City 2,A+,SID1019,Mechanical Engineering,KCET,422,1734,8.5,100000
+Tina 57,9810025468,Tina97@example.com,Street 41, City 5,A-,SID1020,Electronics & Communication Engineering,Management,381,1617,5.2,180000
+Uma 47,9810032612,Uma91@example.com,Street 32, City 3,O-,SID1021,Electronics & Communication Engineering,KCET,475,880,5.7,120000
+Victor 33,9810024053,Victor47@example.com,Street 62, City 2,B-,SID1022,Computer Science Engineering,KCET,445,4592,8.9,150000
+Wendy 14,9810011313,Wendy94@example.com,Street 65, City 4,AB+,SID1023,Electronics & Communication Engineering,Management,388,595,3.8,180000
+Xavier 5,9810011676,Xavier97@example.com,Street 77, City 4,A+,SID1024,Electronics & Communication Engineering,KCET,352,1373,7.5,120000
+Yara 66,9810001061,Yara57@example.com,Street 59, City 9,AB-,SID1025,Civil Engineering,KCET,464,927,12.3,90000
+Zack 97,9810024415,Zack89@example.com,Street 60, City 2,B+,SID1026,Computer Science Engineering,Management,479,2979,8.4,225000
+Anna 58,9810003698,Anna36@example.com,Street 58, City 3,O+,SID1027,Civil Engineering,Management,303,1527,3.9,144000
+Ben 90,9810022475,Ben2@example.com,Street 51, City 8,AB-,SID1028,Computer Science Engineering,KCET,454,2036,8.2,150000
+Chloe 54,9810025782,Chloe98@example.com,Street 1, City 7,O+,SID1029,Mechanical Engineering,Management,332,1324,6.2,162000
+David 65,9810009588,David26@example.com,Street 93, City 3,AB-,SID1030,Computer Science Engineering,Management,367,1728,12.4,225000
